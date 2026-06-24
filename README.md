@@ -7,8 +7,7 @@ This repository contains practical assignments, exercises, and projects complete
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and accelerate software delivery. Through these assignments, various DevOps concepts are explored and implemented using industry-standard tools and methodologies.
 
 # Objectives
-
-Understand the fundamentals of DevOps.
+● Understand the fundamentals of DevOps.
 Gain hands-on experience with Linux command-line operations.
 Learn version control using Git and GitHub.
 Explore shell scripting and automation techniques.
