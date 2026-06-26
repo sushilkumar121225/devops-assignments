@@ -4,7 +4,7 @@ import json
 
 app = Flask(__name__)
 
-client = MongoClient("mongodb+srv://admin:Admin123@cluster0.yzfhdlt.mongodb.net/?appName=Cluster0")
+client = MongoClient("mongodb+srv://username:password@cluster0.xxxxxx.mongodb.net/?retryWrites=true&w=majority")
 
 db = client["studentdb"]
 
