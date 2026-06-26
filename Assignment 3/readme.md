@@ -1,4 +1,4 @@
-# lask API and MongoDB Atlas Integration
+# Flask API and MongoDB Atlas Integration
 
 # Aim of the Assignment:
 The aim of this assignment is to develop a Flask web application that provides a REST API to return JSON data from a backend file and allows users to submit data through a web form that is stored in MongoDB Atlas. The application should redirect to a success page after successful data submission and display an error message on the same page if any error occurs.
