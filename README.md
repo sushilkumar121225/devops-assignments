@@ -10,60 +10,60 @@ DevOps is a set of practices that combines **Software Development (Dev)** and **
 
 ## 🎯 Objectives
 
-- ● Understand the fundamentals of DevOps.
-- ● Gain hands-on experience with Linux command-line operations.
-- ● Learn version control using Git and GitHub.
-- ● Explore shell scripting and automation techniques.
-- ● Understand Continuous Integration and Continuous Deployment (CI/CD) concepts.
-- ● Practice software deployment and infrastructure management.
-- ● Build practical skills required in modern DevOps environments.
+● Understand the fundamentals of DevOps.
+● Gain hands-on experience with Linux command-line operations.
+● Learn version control using Git and GitHub.
+● Explore shell scripting and automation techniques.
+● Understand Continuous Integration and Continuous Deployment (CI/CD) concepts.
+● Practice software deployment and infrastructure management.
+● Build practical skills required in modern DevOps environments.
 
 ---
 
 ## 📚 Topics Covered
 
 ### 🐧 Linux Fundamentals
-- ● File and Directory Management
-- ● File Permissions and Ownership
-- ● Environment Variables
-- ● Process Management
-- ● Networking Basics
+● File and Directory Management
+● File Permissions and Ownership
+● Environment Variables
+● Process Management
+● Networking Basics
 
 ### 🔄 Version Control
-- ● Git Basics
-- ● Branching and Merging
-- ● Repository Management
-- ● GitHub Collaboration
+● Git Basics
+● Branching and Merging
+● Repository Management
+● GitHub Collaboration
 
 ### 💻 Shell Scripting
-- ● Bash Scripting
-- ● Automation Tasks
-- ● Scheduling Jobs
+● Bash Scripting
+● Automation Tasks
+● Scheduling Jobs
 
 ### ⚙️ DevOps Concepts
-- ● Continuous Integration (CI)
-- ● Continuous Deployment (CD)
-- ● Infrastructure as Code (IaC)
-- ● Monitoring and Logging
+● Continuous Integration (CI)
+● Continuous Deployment (CD)
+● Infrastructure as Code (IaC)
+● Monitoring and Logging
 
 ### ☁️ Containerization & Cloud
-- ● Docker Fundamentals
-- ● Kubernetes Basics
-- ● Cloud Computing Concepts
-- ● Deployment Strategies
+● Docker Fundamentals
+● Kubernetes Basics
+● Cloud Computing Concepts
+● Deployment Strategies
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- ● Linux / Cygwin
-- ● Git & GitHub
-- ● Bash Shell
-- ● Docker
-- ● Kubernetes
-- ● Jenkins
-- ● Visual Studio Code (VS Code)
-- ● Cloud Platforms
+● Linux / Cygwin
+● Git & GitHub
+● Bash Shell
+● Docker
+● Kubernetes
+● Jenkins
+● Visual Studio Code (VS Code)
+● Cloud Platforms
 
 ---
 
